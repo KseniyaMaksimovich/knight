@@ -16,6 +16,6 @@ public class Main {
                 parol = scanner.nextLine();
             } while (parol.length() < 8 || parol.length() > 15);
         }
-        System.out.printf("%s, Vash parol:  %s", name, parol);
+        System.out.printf("%s, Vash paroll:  %s", name, parol);
     }
 }
